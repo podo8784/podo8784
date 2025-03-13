@@ -10,7 +10,7 @@ Advanced HTML/CSS/REACT components & features.
 
 # Social :iphone:
 
-:necktie: [Linkedin](https://www.linkedin.com/in/raymond-podojil-b042a31b6)
+:necktie: [Linkedin](https://www.linkedin.com/in/raymond-podojil-b042a31b6)  
 :envelope: [Email](podojilr@gmail.com)
 
 <!--
