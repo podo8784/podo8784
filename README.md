@@ -10,7 +10,7 @@ Advanced HTML/CSS/REACT components & features.
 
 # Social ![image](https://github.com/user-attachments/assets/416ea27d-962c-4acd-8a01-679ef94d06a9)
 
-![image](https://github.com/user-attachments/assets/884178bd-7d98-4013-bf6d-35cc4b5bd34a) ![link](https://www.linkedin.com/in/raymond-podojil-b042a31b6)Linkedin
+![image](https://github.com/user-attachments/assets/884178bd-7d98-4013-bf6d-35cc4b5bd34a) ![Linkedin](https://www.linkedin.com/in/raymond-podojil-b042a31b6)
 
 
 
